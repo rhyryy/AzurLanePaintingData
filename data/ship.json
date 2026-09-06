@@ -5221,6 +5221,13 @@
     "rarity": 5,
     "nationality": 97
   },
+  "salatuojia_alter": {
+    "painting": "salatuojia_alter",
+    "name": "萨拉托加·META",
+    "type": 7,
+    "rarity": 5,
+    "nationality": 97
+  },
   "u556_alter": {
     "painting": "u556_alter",
     "name": "U-556·META",

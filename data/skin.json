@@ -8938,6 +8938,10 @@
       "painting": "aimierbeierding_4",
       "name": "芬芳的舞姬"
     },
+    "aimierbeierding_5": {
+      "painting": "aimierbeierding_5",
+      "name": "闪耀的“魔法”"
+    },
     "aimierbeierding_g": {
       "painting": "aimierbeierding_g",
       "name": "埃米尔·贝尔汀.改"
@@ -10001,6 +10005,12 @@
     "yuekecheng_alter": {
       "painting": "yuekecheng_alter",
       "name": "约克城·META"
+    }
+  },
+  "salatuojia_alter": {
+    "salatuojia_alter": {
+      "painting": "salatuojia_alter",
+      "name": "萨拉托加·META"
     }
   },
   "u556_alter": {
