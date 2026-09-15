@@ -1231,6 +1231,13 @@
     "rarity": 4,
     "nationality": 2
   },
+  "didui": {
+    "painting": "didui",
+    "name": "敌对",
+    "type": 1,
+    "rarity": 4,
+    "nationality": 2
+  },
   "lieren": {
     "painting": "lieren",
     "name": "猎人",
@@ -1341,6 +1348,13 @@
     "name": "特拉法尔加",
     "type": 1,
     "rarity": 6,
+    "nationality": 2
+  },
+  "congmang": {
+    "painting": "congmang",
+    "name": "匆忙",
+    "type": 1,
+    "rarity": 4,
     "nationality": 2
   },
   "liande": {
@@ -1586,6 +1600,13 @@
     "name": "华丽",
     "type": 2,
     "rarity": 5,
+    "nationality": 2
+  },
+  "hu": {
+    "painting": "hu",
+    "name": "虎",
+    "type": 2,
+    "rarity": 6,
     "nationality": 2
   },
   "lundun": {
@@ -2722,6 +2743,13 @@
     "rarity": 4,
     "nationality": 3
   },
+  "antu": {
+    "painting": "antu",
+    "name": "安土",
+    "type": 4,
+    "rarity": 6,
+    "nationality": 3
+  },
   "fusang": {
     "painting": "fusang",
     "name": "扶桑",
@@ -3070,6 +3098,13 @@
     "name": "伊404",
     "type": 17,
     "rarity": 6,
+    "nationality": 3
+  },
+  "i14": {
+    "painting": "i14",
+    "name": "伊14",
+    "type": 17,
+    "rarity": 5,
     "nationality": 3
   },
   "jianye": {
@@ -5217,6 +5252,13 @@
   "yuekecheng_alter": {
     "painting": "yuekecheng_alter",
     "name": "约克城·META",
+    "type": 7,
+    "rarity": 5,
+    "nationality": 97
+  },
+  "shengli_alter": {
+    "painting": "shengli_alter",
+    "name": "胜利·META",
     "type": 7,
     "rarity": 5,
     "nationality": 97

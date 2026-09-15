@@ -2349,6 +2349,20 @@
     "yonggan": {
       "painting": "yonggan",
       "name": "勇敢"
+    },
+    "yonggan_g": {
+      "painting": "yonggan_g",
+      "name": "勇敢·改"
+    }
+  },
+  "didui": {
+    "didui": {
+      "painting": "didui",
+      "name": "敌对"
+    },
+    "didui_2": {
+      "painting": "didui_2",
+      "name": "水畔的守望之光"
     }
   },
   "lieren": {
@@ -2401,6 +2415,10 @@
     "biaoqiang_9": {
       "painting": "biaoqiang_9",
       "name": "夜宴的新风格？"
+    },
+    "biaoqiang_10": {
+      "painting": "biaoqiang_10",
+      "name": "标枪"
     }
   },
   "tianhou": {
@@ -2581,6 +2599,16 @@
     "telafaerjia_2": {
       "painting": "telafaerjia_2",
       "name": "海风与夜语"
+    }
+  },
+  "congmang": {
+    "congmang": {
+      "painting": "congmang",
+      "name": "匆忙"
+    },
+    "congmang_2": {
+      "painting": "congmang_2",
+      "name": "人偶藏馆"
     }
   },
   "liande": {
@@ -3093,6 +3121,20 @@
       "name": "唇齿之间"
     }
   },
+  "hu": {
+    "hu": {
+      "painting": "hu",
+      "name": "虎"
+    },
+    "hu_2": {
+      "painting": "hu_2",
+      "name": "临水的辰星"
+    },
+    "hu_2_asmr": {
+      "painting": "hu_2_asmr",
+      "name": "临水的辰星"
+    }
+  },
   "lundun": {
     "lundun": {
       "painting": "lundun",
@@ -3493,6 +3535,10 @@
     "shi_2": {
       "painting": "shi_2",
       "name": "沙滩的慵懒主宰"
+    },
+    "shi_3": {
+      "painting": "shi_3",
+      "name": "夜巷中的诱引者"
     }
   },
   "jingjishen": {
@@ -3727,6 +3773,10 @@
     "guanghui_8": {
       "painting": "guanghui_8",
       "name": "辉光下的甜蜜"
+    },
+    "guanghui_9": {
+      "painting": "guanghui_9",
+      "name": "幽影徘徊之夜"
     }
   },
   "shengli": {
@@ -5501,6 +5551,20 @@
       "name": "金刚(μ兵装)"
     }
   },
+  "antu": {
+    "antu": {
+      "painting": "antu",
+      "name": "安土"
+    },
+    "antu_2": {
+      "painting": "antu_2",
+      "name": "午夜的瑰色电梯"
+    },
+    "antu_3": {
+      "painting": "antu_3",
+      "name": "午夜的瑰色电梯"
+    }
+  },
   "fusang": {
     "fusang": {
       "painting": "fusang",
@@ -5970,6 +6034,10 @@
       "painting": "xianghe_3",
       "name": "疾速之鹤"
     },
+    "xianghe_4": {
+      "painting": "xianghe_4",
+      "name": "翔鹤"
+    },
     "xianghe_h": {
       "painting": "xianghe_h",
       "name": "鸣鹤衔禧"
@@ -6123,6 +6191,10 @@
     "baifeng_2": {
       "painting": "baifeng_2",
       "name": "缭乱之花的忍者游戏"
+    },
+    "baifeng_3": {
+      "painting": "baifeng_3",
+      "name": "白凤"
     }
   },
   "yunlong": {
@@ -6259,6 +6331,16 @@
     "i404_3": {
       "painting": "i404_3",
       "name": "绛縢华舞"
+    }
+  },
+  "i14": {
+    "i14": {
+      "painting": "i14",
+      "name": "伊14"
+    },
+    "i14_2": {
+      "painting": "i14_2",
+      "name": "千面皆虚无"
     }
   },
   "jianye": {
@@ -6929,6 +7011,10 @@
     "yueke_ger_3": {
       "painting": "yueke_ger_3",
       "name": "相伴于泳池之夜"
+    },
+    "yueke_ger_4": {
+      "painting": "yueke_ger_4",
+      "name": "约克"
     }
   },
   "ougen_younv": {
@@ -6955,6 +7041,10 @@
     "feiteliekaer_3": {
       "painting": "feiteliekaer_3",
       "name": "夏日防晒计划"
+    },
+    "feiteliekaer_4": {
+      "painting": "feiteliekaer_4",
+      "name": "午夜频道"
     }
   },
   "ougen_idol": {
@@ -9503,6 +9593,14 @@
     "jinluhao_2": {
       "painting": "jinluhao_2",
       "name": "古堡中的恐怖淑女"
+    },
+    "jinluhao_3": {
+      "painting": "jinluhao_3",
+      "name": "金鹿号"
+    },
+    "jinluhao_4": {
+      "painting": "jinluhao_4",
+      "name": "金鹿号"
     }
   },
   "mali": {
@@ -10005,6 +10103,12 @@
     "yuekecheng_alter": {
       "painting": "yuekecheng_alter",
       "name": "约克城·META"
+    }
+  },
+  "shengli_alter": {
+    "shengli_alter": {
+      "painting": "shengli_alter",
+      "name": "胜利·META"
     }
   },
   "salatuojia_alter": {
@@ -11201,6 +11305,10 @@
     "chaijun_5": {
       "painting": "chaijun_5",
       "name": "绚烂夜梦"
+    },
+    "chaijun_6": {
+      "painting": "chaijun_6",
+      "name": "柴郡"
     },
     "chaijun_h": {
       "painting": "chaijun_h",
